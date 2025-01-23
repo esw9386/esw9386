@@ -1,6 +1,6 @@
 # About me
-
-- 📲 I’m currently working on an app to import charades decks from external lists.
+<!--
+- 📲 I’m currently working on an app to import charades decks from external lists. -->
 - 📧 Email: esw9386@nyu.edu
 - 😄 Pronouns: He/him
 <!-- - 👯 I’m looking to collaborate on ... 
