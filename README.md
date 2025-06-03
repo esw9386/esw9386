@@ -1,8 +1,11 @@
 # About me
 <!--
 - 📲 I’m currently working on an app to import charades decks from external lists. -->
-- 📧 Email: esw9386@nyu.edu
-- 😄 Pronouns: He/him
+My name is Elijah Wilson and this is my personal repository. I am a recent graduate from NYU Tandon School of Engineering with a B.S. in Mathematics and Computer Science.
+I've created this page as a directory to showcase my work. Most recently, I collaborated on [JParty](https://github.com/esw9386/JParty), a familiar trivia game implemented in Java, and [Winfra](https://github.com/RuthvikMukkamala/Winfra), an infrastructural suggestion site completed as a capstone project.
+
+I am currently seeking employment as a software engineer. I have strong interests in web design and systems engineering, but am always looking to learn about more niche topics in computer science as well. If you have any questions about my previous work or capabilities, or would like to collaborate on a project, you can reach me at esw9386@nyu.edu. Thanks for reading!
+
 <!-- - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 🌱 I’m currently learning ...
